@@ -8,6 +8,6 @@ for x in range(1,7):
         print('guess a higher number: ')
     elif(a > num):
         print('guess a lower number: ')
-    else: 
-        print('better luck next time')        
+ 
+print('better luck next time')        
         
